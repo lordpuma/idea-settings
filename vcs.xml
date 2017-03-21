@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/lordpuma/intranet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://pumaslab@gitlab.com/pumaslab/gfc-capital.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
