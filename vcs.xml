@@ -30,4 +30,7 @@
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="D:/IdeaProjects/patches" />
+  </component>
 </application>
